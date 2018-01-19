@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangOutChat", "HangOutChat\HangOutChat.csproj", "{00055F06-4A44-47C0-A775-3085DA1A1DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangOutChat.Core", "HangOutChat.Core\HangOutChat.Core.csproj", "{CF07EB90-A603-47F1-A441-B6090389F6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00055F06-4A44-47C0-A775-3085DA1A1DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00055F06-4A44-47C0-A775-3085DA1A1DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00055F06-4A44-47C0-A775-3085DA1A1DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00055F06-4A44-47C0-A775-3085DA1A1DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF07EB90-A603-47F1-A441-B6090389F6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF07EB90-A603-47F1-A441-B6090389F6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF07EB90-A603-47F1-A441-B6090389F6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF07EB90-A603-47F1-A441-B6090389F6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655411B8-AD92-4243-A31F-EDA4362DF7FB}
+	EndGlobalSection
+EndGlobal
